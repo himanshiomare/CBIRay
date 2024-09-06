@@ -1,0 +1,6 @@
+venv
+static
+*.csv
+*.h5
+__pycache__
+*.pyc
